@@ -6,8 +6,15 @@
     <description>Recent content on neil&#39;s blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Nov 2024 12:31:36 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 13:13:27 +0530</lastBuildDate>
     <atom:link href="https://starshipneil.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lorem ipsum</title>
+      <link>https://starshipneil.github.io/posts/loremipsum/</link>
+      <pubDate>Sat, 16 Nov 2024 13:13:27 +0530</pubDate>
+      <guid>https://starshipneil.github.io/posts/loremipsum/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et velit ante. Curabitur odio felis, luctus rhoncus posuere sit amet, tincidunt sit amet dui. Cras dui dolor, suscipit quis ligula eget, lobortis rutrum est. Praesent blandit mauris justo, vel semper lorem ornare quis. In libero dolor, tincidunt ac leo non, commodo luctus dui. Aenean molestie magna ac massa venenatis tincidunt. In cursus nibh at odio congue, vel viverra tellus volutpat. Nulla malesuada faucibus justo id tempor.</description>
+    </item>
     <item>
       <title>first post</title>
       <link>https://starshipneil.github.io/posts/firstpost/</link>
